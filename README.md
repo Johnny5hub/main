@@ -17,6 +17,7 @@
 
 ### Something:
 - [Coolest 404 pages](https://www.creativebloq.com/web-design/best-404-pages-812505)
+- github 404 page - parallax/"3d" image
 
 # Day 1 
 ## 19/11/20
